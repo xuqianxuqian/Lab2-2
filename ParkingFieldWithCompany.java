@@ -50,5 +50,6 @@ public class ParkingFieldWithCompany extends ComplexParkingField implements Park
 	public String toString() {
 		return super.toString() + "This parking field is managed by " + this.company + "\n";
 	}
+public void new£¨£©{}
 
 }

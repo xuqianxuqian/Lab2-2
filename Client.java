@@ -1,5 +1,9 @@
-﻿###xuqian
+﻿<<<<<<< HEAD
 
+
+=======
+﻿
+>>>>>>> C4
 import exercise_5_4.decorator.ParkingFieldWithCompany;
 import exercise_5_4.field.ParkingField;
 import exercise_5_4.strategy.ParkingStrategy;
@@ -42,6 +46,6 @@ public class Client {
 			String c = iterator.next();
 			System.out.println(c + " is now parked in the parking field");
 		}
-		//add something for check
+		add something for check
 	}
 }
