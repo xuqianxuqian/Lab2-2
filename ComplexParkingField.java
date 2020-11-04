@@ -10,14 +10,7 @@ import exercise_5_4.visitor.ParkingVisitor;
 
 public class ComplexParkingField implements ParkingField {
 
-	protected final ParkingField pf;
-
-	public ComplexParkingField(ParkingField pf) {
-		assert pf != null;
-		
-		this.pf = pf;
-	}
-
+	
 	@Override
 	public void parking(String type, String plate, int width, int num, String[] extraRegistrationInfo)
 			throws Exception {
