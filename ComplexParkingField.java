@@ -1,7 +1,4 @@
-package exercise_5_4.decorator;
 
-import java.util.Iterator;
-import java.util.Map;
 
 import exercise_5_4.field.ParkingField;
 import exercise_5_4.strategy.ParkingStrategy;
