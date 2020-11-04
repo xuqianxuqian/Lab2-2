@@ -78,4 +78,7 @@ public class ComplexParkingField implements ParkingField {
 	public String toString() {
 		return pf.toString();
 	}
+	public Sting(){
+		return "a";
+	}
 }
